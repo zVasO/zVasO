@@ -23,7 +23,7 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🔭 I’m currently looking for a new opportunities   
   
@@ -35,10 +35,6 @@ I’m a full-stack developer who has turned years of freelancing into a full-tim
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
 
 
 </td></tr></table>  
